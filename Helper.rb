@@ -18,7 +18,7 @@ end
 
 rescue Exception =>e
   puts e.message
-  puts "Idlness limit Excedeed!"
+  puts "Idlness limit Excedeed!".blue
 
 end
 
@@ -35,7 +35,7 @@ end
 
 rescue Exception =>e
   puts e.message
-  puts "Idlness limit Excedeed!".red
+  puts "Idlness limit Excedeed!".blue
 
 end
 
