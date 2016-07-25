@@ -12,7 +12,13 @@ Then run the script with the command : ruby "script path" and just follow the in
                             
      
 In addition the script gives you an idea about the execution time spent to verify the files                       
-The tool is still not complete .... 
+
+
+---
+
+##STATUS
+
+v1.0.0 (not the final version just a beta)
 
 
 ---
