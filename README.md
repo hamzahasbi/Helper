@@ -18,7 +18,6 @@ The tool is still not complete .... In addition the script gives you an idea abo
 
 ##Contributors
 - Hasbi Hamza <hamza.hasbi@gmail.com> 
-- <www.hamzahasbi.me>
 
 
 ---
