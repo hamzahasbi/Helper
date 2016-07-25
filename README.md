@@ -1,4 +1,4 @@
-# Helper
+## Helper
 This is an open-source tool written in Ruby ,that  checks the diffrence between 2 files (especially for competitive programming) 
 
 
@@ -15,4 +15,4 @@ then run the script with the command : ruby "script path" and just follow the in
 The tool is still not complete .... In addition the script gives you an idea about the execution time spent to verify the files
 
 
-#LICENSE
+##LICENSE
