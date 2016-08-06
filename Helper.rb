@@ -3,7 +3,7 @@
 require 'colorize'
 require 'benchmark'
 
-
+time=Time.new
 Task=Benchmark.realtime do
 print "Output file path :"
 out_path=gets.chomp.to_s
@@ -18,7 +18,7 @@ end
 
 rescue Exception =>e
   puts e.message
-  puts "Idlness limit Excedeed!".blue
+  puts "Idlness limit Excedeed!"
 
 end
 
@@ -35,7 +35,7 @@ end
 
 rescue Exception =>e
   puts e.message
-  puts "Idlness limit Excedeed!".blue
+  puts "Idlness limit Excedeed!".red
 
 end
 
@@ -55,4 +55,5 @@ if good==true then puts "YES!".green
 else puts "WRONG ANSWER!".red
 end
 end
-puts "Process finished in #{Task} ms".yellow
+
+puts "#{time.day}/#{time.month}/#{time.year} : Process finished in #{Task} ms".yellow
