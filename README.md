@@ -23,7 +23,7 @@ v1.0.0 (not the final version just a beta)
 
 ---
 
-##Contributors
+## Contributors
 - Hasbi Hamza <hamza.hasbi@gmail.com> 
 
 
