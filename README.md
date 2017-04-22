@@ -2,7 +2,7 @@
 This is an open-source tool written in Ruby ,that  checks the diffrence between 2 files (especially for competitive programming) 
 
 ---
-##Execution steps :
+## Execution steps :
 
 You need to install the colorize gem by runing this command : gem install colorize
 
@@ -16,7 +16,7 @@ In addition the script gives you an idea about the execution time spent to verif
 
 ---
 
-##STATUS
+## STATUS
 
 v1.0.0 (not the final version just a beta)
 
@@ -28,6 +28,6 @@ v1.0.0 (not the final version just a beta)
 
 
 ---
-##LICENSE
+## LICENSE
 
 Licenced under the [MIT LICENCE] (LICENSE)
